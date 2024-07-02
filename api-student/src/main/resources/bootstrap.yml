@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: api-student
+  cloud:
+    config:
+      uri: http://localhost:8888
